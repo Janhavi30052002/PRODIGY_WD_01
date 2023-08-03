@@ -13,7 +13,7 @@ Lab Appointments: Make Lab Appointments for at home services.
 To run the WeCare website locally or deploy it to a server, follow these steps:
 
 # Clone the repository: 
-Navigate to the project folder: cd medical-consultancy
+https://github.com/Janhavi30052002/PRODIGY_WD_01.git
 Open index.html in your preferred web browser.
 # Usage
 On the homepage, use the search bar to find doctors or medical services in your area.
