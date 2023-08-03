@@ -12,7 +12,7 @@ Healthcare Services: Explore various healthcare services and facilities availabl
 Lab Appointments: Make Lab Appointments for at home services.
 To run the WeCare website locally or deploy it to a server, follow these steps:
 
-# Clone the repository: git clone https://github.com/wecare/medical-consultancy.git
+# Clone the repository: 
 Navigate to the project folder: cd medical-consultancy
 Open index.html in your preferred web browser.
 # Usage
