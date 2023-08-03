@@ -20,7 +20,7 @@ On the homepage, use the search bar to find doctors or medical services in your 
 Book your appointments or consult with doctors online.
 Browse the health articles section to read informative articles on various health topics.
 # Contributing
-We welcome contributions from the community to enhance the WeCare website. If you'd like to contribute, please follow these steps:
+We welcome contributions from the community to enhance the WeCare website.
 
 
 
